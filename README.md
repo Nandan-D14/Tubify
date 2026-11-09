@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nandan-D14/Tudify/releases/latest"><img src="https://img.shields.io/github/v/release/Nandan-D14/Tudify?style=flat-square&color=1DB954" alt="Release"></a>
+  <a href="https://github.com/Nandan-D14/Tubify/releases/latest"><img src="https://img.shields.io/github/v/release/Nandan-D14/Tubify?style=flat-square&color=1DB954" alt="Release"></a>
   <img src="https://img.shields.io/badge/Platform-Windows%20x64-blue?style=flat-square" alt="Platform">
   <img src="https://img.shields.io/badge/RAM-~50MB%20Idle-brightgreen?style=flat-square" alt="RAM">
   <img src="https://img.shields.io/badge/License-MIT-orange?style=flat-square" alt="License">
@@ -24,8 +24,8 @@ Get the latest build for **Windows (64-bit)**:
 
 | Distribution | Download Link | Description |
 | :--- | :--- | :--- |
-| **Windows Installer (`.exe`)** | [**Download Installer**](https://github.com/Nandan-D14/Tudify/releases/download/v0.1.0/Tubify_0.1.0_x64-setup.exe) | Standard NSIS installer with desktop shortcuts & uninstaller. |
-| **Portable Package (`.zip`)** | [**Download ZIP**](https://github.com/Nandan-D14/Tudify/releases/download/v0.1.0/Tubify-v0.1.0-windows-x64.zip) | Standalone package containing both the installer and portable `.exe`. |
+| **Windows Installer (`.exe`)** | [**Download Installer**](https://github.com/Nandan-D14/Tubify/releases/download/v0.1.0/Tubify_0.1.0_x64-setup.exe) | Standard NSIS installer with desktop shortcuts & uninstaller. |
+| **Portable Package (`.zip`)** | [**Download ZIP**](https://github.com/Nandan-D14/Tubify/releases/download/v0.1.0/Tubify-v0.1.0-windows-x64.zip) | Standalone package containing both the installer and portable `.exe`. |
 
 > [!NOTE]
 > **Windows SmartScreen Prompt:**  
@@ -85,8 +85,8 @@ Traditional desktop music streaming apps run on heavy Electron shells that often
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/Nandan-D14/Tudify.git
-cd Tudify/app
+git clone https://github.com/Nandan-D14/Tubify.git
+cd Tubify/app
 
 # 2. Install frontend dependencies
 npm install
